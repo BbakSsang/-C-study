@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\alexp\source\repos\열혈 C\소스.cpp(173,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+  열혈 C.vcxproj -> C:\Users\alexp\source\repos\열혈 C\x64\Debug\열혈 C.exe
